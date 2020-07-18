@@ -1,7 +1,7 @@
-#This R Program consists of two Functions:-
-#1. makeCacheMatrix & 2. cacheSolve
+# This R Program consists of two Functions:-
+# 1. makeCacheMatrix & 2. cacheSolve
 
-#This R program is used to find the Matrix Inversion. It can cache the 
+# This R program is used to find the Matrix Inversion. It can cache the 
 # inverse of a matrix 
 
 # makeCacheMatrix: This function creates a special "matrix" object 
